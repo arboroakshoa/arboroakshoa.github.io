@@ -14,7 +14,7 @@ Arbor Oaks HOA manages a number of community ammenities for the ~500 member hous
 - Walking trails
 - Fiber internet
 
-The community's mailing address is Portland, OR and is in the 97229 zip code. It is within [Beaverton School District](https://www.beaverton.k12.or.us) and the [Tualatin Hills Park and Reacretion district](http://www.thprd.org).
+The community's mailing address is Portland, OR and is in the 97229 zip code. It is within [Beaverton School District](https://www.beaverton.k12.or.us) and the [Tualatin Hills Park and Recreation district](http://www.thprd.org).
 
 ### Our Managment Company
 
