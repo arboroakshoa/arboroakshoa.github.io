@@ -10,7 +10,8 @@ redirect_from:
 Arbor Oaks HOA manages a number of community ammenities for the ~500 member households:
 
 - Outdoor member pool
-- Community park, playstructures, and basketball court
+- Comunity club house
+- Community park with playstructures and a basketball court
 - Walking trails
 - Fiber internet
 
