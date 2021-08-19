@@ -25,5 +25,5 @@ Email: Info@BlueMountainCommunity.com
 
 ### Community Notices and Documents
 
-If you are a member [please register on TownSQ](https://townsq.io) to access
+If you are a member [please register on TownSQ](https://app.townsq.io/ais/sign-up) to access
 community notices and documents.
