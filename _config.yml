@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 show_downloads: false
-title: Arbor Oaks Home Owners Association Bethany Oregon
+title: Arbor Oaks Home Owners Association
 description: A single family home community in the beautiful Bethany area
 whitelist:
   - jekyll-redirect-from
