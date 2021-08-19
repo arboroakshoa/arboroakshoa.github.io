@@ -38,22 +38,22 @@ If you are new to the community first [contact Blue Mountain for account registr
 
 **Electric - PGE (Portland General Electric)**
 
-- https://www.portlandgeneral.com
+- [portlandgeneral.com](https://www.portlandgeneral.com)
 - 1.800.542.8818
 
 **Gas - Northwest Natural Gas**
 
-- https://www.nwnatural.com
+- [nwnatural.com](https://www.nwnatural.com)
 - 1.800.422.4012
 
 **Garbage - Waste Management Northwest**
 
-- www.wmnorthwest.com/portland
+- [wmnorthwest.com/portland](https://www.wmnorthwest.com/portland)
 - 1.800.808.5901
 
 **Water/Sewer - Tualatin Water Valley District**
 
-- https://www.tvwd.org/
+- [tvwd.org](https://www.tvwd.org/)
 - 1.503.848.3000
 
 **Internet - Managed by HOA**
