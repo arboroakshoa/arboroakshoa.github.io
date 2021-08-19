@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 show_downloads: false
 title: Arbor Oaks HOA
-logo: arbor-oaks.png
+logo: docs/assets/arbor-oaks.png
 description: A community of single family and town homes in the beautiful Bethany area
 whitelist:
   - jekyll-redirect-from
