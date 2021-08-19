@@ -23,8 +23,15 @@ The communities mailing address is Portland, OR and is in the 97229 zip code.
 For all general questions please contact **Blue Mountain Community Management**
 
 - 17933 NW Evergreen Place # 200 Beaverton, OR 97006
-- 503.332.2047
+- 1.503.332.2047
 - [Info@BlueMountainCommunity.com](mailto:Info@BlueMountainCommunity.com)
+
+### Community Notices and Documents
+
+If you are a member [please login to TownSQ](https://app.townsq.io/login) to access
+community notices and documents.
+
+If you are new to the community first [contact Blue Mountain for account registration](mailto:Info@BlueMountainCommunity.com) for TownSQ registration information and [register on TownSQ](https://app.townsq.io/ais/sign-up) to get login access.
 
 ### Our Utility Service Providers
 
@@ -53,9 +60,4 @@ For all general questions please contact **Blue Mountain Community Management**
 - GigaMonster (starting late fall 2021): 1.844.444.2248
 - Fibersphere: 1.503.681.8755
 
-### Community Notices and Documents
 
-If you are a member [please login to TownSQ](https://app.townsq.io/login) to access
-community notices and documents.
-
-If you are new to the community first [contact Blue Mountain for account registration](mailto:Info@BlueMountainCommunity.com) for TownSQ registration information and [register on TownSQ](https://app.townsq.io/ais/sign-up) to get login access.
