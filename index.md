@@ -57,7 +57,4 @@ If you are new to the community first [contact Blue Mountain for account registr
 
 **Internet - Managed by HOA**
 
-- GigaMonster (starting late fall 2021): 1.844.444.2248
-- Fibersphere: 1.503.681.8755
-
-
+- GigaMonster: 1.844.444.2248
